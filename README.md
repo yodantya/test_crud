@@ -13,6 +13,6 @@ username/password : affan/admin
 ##screnshoot 
 <img align="center" src="/Screenshot&db/login.png" />
 <img align="center" src="/Screenshot&db/dashboard.png" />
-<img align="center" src="/Screenshot&db/data (20).png" />
+<img align="center" src="/Screenshot&db/data.png" />
 
  
