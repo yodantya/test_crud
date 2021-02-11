@@ -11,8 +11,8 @@ username/password : admin/admin
 username/password : affan/admin
 
 ##screnshoot 
-<img align="center" src="/Screenshoot&db/login.png" />
-<img align="center" src="/Screenshoot&db/dashboard.png" />
-<img align="center" src="/Screenshoot&db/data (20).png" />
+<img align="center" src="/Screenshot&db/login.png" />
+<img align="center" src="/Screenshot&db/dashboard.png" />
+<img align="center" src="/Screenshot&db/data (20).png" />
 
  
